@@ -1,0 +1,7 @@
+@import "tailwindcss";
+*{
+    font-family: sans-serif;
+}
+@theme {
+    --breakpoint-mb:510px;
+}
